@@ -68,6 +68,9 @@ mgr1 = Manager('Farhan', 'Utshaw', 100000, [dev1])
 
 mgr1.print_emp()
 
+
+
+
 # isinstance() --> if an object is an instance of a class
 # issubclass() --> if a class is a subclass of another
 
